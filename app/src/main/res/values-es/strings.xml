@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qué combustible</string>
+    <string name="answer_ethanol">Llénelo con etanol.</string>
+    <string name="answer_gas">Llene gasolina.</string>
+    <string name="message_gas">Valor por litro de gasolina:</string>
+    <string name="message_ethanol">Valor por litro de etanol:</string>
+    <string name="button_text">¿Cuál es la mejor opción?</string>
+    <string name="all_gas">"Ingrese el valor de ambos combustibles."</string>
+    <string name="invalid_value">"Valor no válido"</string>
+</resources>
